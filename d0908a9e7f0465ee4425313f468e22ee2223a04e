@@ -1,0 +1,1 @@
+{"jobID":"a4b88d9c-4bfd-a94b-527d-8397c1a3e3b8","spec":{"type":"policy","cause":{"Message":"","User":"sanghyukp \u003csanghyukp@hotmail.com\u003e"},"spec":{"eks-example:deployment/eks-example":{"add":{"tag.eks-example":"glob:ccf378bc"},"remove":{}}}},"result":null}
