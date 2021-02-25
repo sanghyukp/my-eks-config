@@ -186,4 +186,4 @@ spec:
       #   options:
       #     - name: ndots
       #       value: "1"
-        - --git-poll-intterval=1m
+        - --git-poll-interval=1m
