@@ -11,6 +11,7 @@ metadata:
     flux.weave.works/automated: "true"
     # do not apply this manifest on the cluster
     #flux.weave.works/ignore: "true"
+    fluxcd.io/tag.eks-example: glob:ccf378bc
 spec:
   replicas: 1
   selector:
